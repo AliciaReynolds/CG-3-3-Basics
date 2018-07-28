@@ -6,7 +6,23 @@ namespace CG_3_3_Basics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //This is an expression
+
+            int x;
+            int y;
+
+            x = 3;
+            y = 1;
+            double z = y / x;
+            Console.Write(z);
+
+            Console.ReadLine();
+
+
+
+           
+
+
         }
     }
 }
