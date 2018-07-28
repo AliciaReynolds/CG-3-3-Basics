@@ -8,8 +8,8 @@ namespace CG_3_3_Basics
         {
             //This is an expression
 
-            int x;
-            int y;
+            double x;
+            double y;
 
             x = 3;
             y = 1;
